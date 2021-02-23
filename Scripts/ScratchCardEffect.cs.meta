@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 461601fb4974b734daceede18c8f2aa3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maskCamera: {instanceID: 0}
+  - maskObject: {instanceID: 0}
+  - CoinObject: {instanceID: 0}
+  - EraserMaterial: {instanceID: 0}
+  - CanvasLevel1: {fileID: 3911860214200312937, guid: 4b763a1ff5309b34b953845f1ad69f21,
+      type: 3}
+  - CanvasLevel2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

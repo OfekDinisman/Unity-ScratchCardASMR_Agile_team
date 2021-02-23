@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58c9597acd292cb48911e52f0925b0e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AImg: {instanceID: 0}
+  - lvlImgB: {instanceID: 0}
+  - lvlImgC: {instanceID: 0}
+  - lvlImgD: {instanceID: 0}
+  - lvlImgE: {instanceID: 0}
+  - dogImg: {instanceID: 0}
+  - frogImg: {instanceID: 0}
+  - deerImg: {instanceID: 0}
+  - frogaImg: {fileID: 21300000, guid: 5b816dd434438c745ad9ec033eebb3d0, type: 3}
+  - loadingScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
